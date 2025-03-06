@@ -1,0 +1,213 @@
+body {
+    background-image: url(trem.jpg);
+    background-size: 400px;
+    color: rgb(56, 100, 196);
+}
+
+.volta1 {
+     margin-right: 200px;
+}
+    
+.título{
+    color: rgb(85, 185, 252);
+    text-align: center;
+    height: 70px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 70px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.link1{
+    position: absolute;
+    margin-left: 100px;
+    color: aliceblue;
+    height: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+    }
+
+    .link2{
+        position: absolute;
+        right: 100px;
+        color: aliceblue;
+        height: 30px;
+        padding-left: 20px;
+        padding-right: 20px;
+        font-size: 40px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+    
+    }
+
+    .link3{
+        position: absolute;
+        left: 800px;
+        color: rgb(255, 255, 255);
+        text-align: center;
+        height: 30px;
+        padding-left: 20px;
+        padding-right: 20px;
+        font-size: 40px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+    }
+
+    
+
+    .right1 {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        position: absolute;
+        font-size: 30px;
+        font-weight: 600;
+        right: 10px; /* Distância do canto direito */
+        top: 60px; /* Distância do topo */
+        color: rgb(56, 100, 196);
+
+    }
+    .right2 {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        position: absolute;
+        font-size: 30px;
+        font-weight: 600;
+        right: 10px; /* Distância do canto direito */
+        top: 100px; /* Distância do topo */
+        color: rgb(56, 100, 196);
+    }
+    .right3 {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        position: absolute;
+        font-size: 30px;
+        font-weight: 600;
+        right: 10px; /* Distância do canto direito */
+        top: 140px; /* Distância do topo */
+        color: rgb(56, 100, 196);
+    }
+    .right4 {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        position: absolute;
+        font-size: 30px;
+        font-weight: 600;
+        right: 10px; /* Distância do canto direito */
+        top: 180px; /* Distância do topo */
+        color: rgb(56, 100, 196);
+    }
+    .right5 {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        position: absolute;
+        font-size: 30px;
+        font-weight: 600;
+        right: 10px; /* Distância do canto direito */
+        top: 210px; /* Distância do topo */
+        color: rgb(56, 100, 196);
+    }
+    .right6 {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        position: absolute;
+        font-size: 30px;
+        font-weight: 600;
+        right: 10px; /* Distância do canto direito */
+        top: 240px; /* Distância do topo */
+        color: rgb(56, 100, 196);
+
+    }
+    
+    .right7 {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        position: absolute;
+        font-size: 30px;
+        font-weight: 600;
+        right: 10px; /* Distância do canto direito */
+        top: 80px; /* Distância do topo */
+        color: rgb(56, 100, 196);
+    }
+    .right8 {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        position: absolute;
+        font-size: 30px;
+        font-weight: 600;
+        right: 10px; /* Distância do canto direito */
+        top: 120px; /* Distância do topo */
+        color: rgb(56, 100, 196);
+    }
+    .right9 {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        position: absolute;
+        font-size: 30px;
+        font-weight: 600;
+        right: 10px; /* Distância do canto direito */
+        top: 160px; /* Distância do topo */
+        color: rgb(56, 100, 196);
+    }
+    .right10 {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        position: absolute;
+        font-size: 30px;
+        font-weight: 600;
+        right: 10px; /* Distância do canto direito */
+        top: 200px; /* Distância do topo */
+        color: rgb(56, 100, 196);
+    }
+    .right11 {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        position: absolute;
+        font-size: 30px;
+        font-weight: 600;
+        right: 10px; /* Distância do canto direito */
+        top: 240px; /* Distância do topo */
+        color: rgb(56, 100, 196);
+
+    }
+
+    .right12 {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        position: absolute;
+        font-size: 30px;
+        font-weight: 600;
+        right: 10px; /* Distância do canto direito */
+        top: 80px; /* Distância do topo */
+        color: rgb(56, 100, 196);
+    }
+    .right13 {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        position: absolute;
+        font-size: 30px;
+        font-weight: 600;
+        right: 10px; /* Distância do canto direito */
+        top: 120px; /* Distância do topo */
+        color: rgb(56, 100, 196);
+    }
+    .right14 {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        position: absolute;
+        font-size: 30px;
+        font-weight: 600;
+        right: 10px; /* Distância do canto direito */
+        top: 160px; /* Distância do topo */
+        color: rgb(56, 100, 196);
+    }
+    .right15 {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        position: absolute;
+        font-size: 30px;
+        font-weight: 600;
+        right: 10px; /* Distância do canto direito */
+        top: 200px; /* Distância do topo */
+        color: rgb(56, 100, 196);
+    }
+    .right16 {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        position: absolute;
+        font-size: 30px;
+        font-weight: 600;
+        right: 10px; /* Distância do canto direito */
+        top: 240px; /* Distância do topo */
+        color: rgb(56, 100, 196);
+
+    }
+
+
